@@ -1,2 +1,4 @@
-# custom-brush-elementor-plugin
-plugin to setup custom shape divider for Elementor 
+# custom-elementor-adds-plugin
+tool to setup custom shape divider for Elementor 
+
+WIP 
